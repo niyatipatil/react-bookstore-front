@@ -11,5 +11,8 @@ This is a basic React UI for a bookstore, designed to display book cards with im
 * HTML/CSS - Structuring and styling the UI components.
 * JavaScript - Programming language for interactivity and functionality.
 
+## Snapshot 
+![image](https://github.com/niyatipatil/react-bookstore-front/assets/109764410/2de8f4cd-4b66-41d2-aab1-60903e9725bd)
+
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
